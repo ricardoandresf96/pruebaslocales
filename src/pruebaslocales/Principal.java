@@ -20,6 +20,8 @@ public class Principal {
         ram.escribirMensaje("practicando con git");
         Rama2 rama = new Rama2();
         rama.escribirMensaje("practicando el merge con conflictos");
-
+        
+        //comentario para commit.
+        //comentario para probar Fetch.
     }
 }
