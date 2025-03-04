@@ -12,5 +12,7 @@ public class Principal {
     public static void main(String[] args) {
         System.out.println("estamos aprendiendo git");
         NuevaClase.printarMensaje("otro mensaje");
+        ComoQuierasSecuela cqs = new ComoQuierasSecuela();
+        cqs.escribirMensaje("texto de prueba");
     }
 }
